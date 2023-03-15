@@ -29,9 +29,9 @@ Resources:
   WebServerHost:
     Type: AWS::EC2::Instance
     Properties:
-      ImageId: ami-02e136e904f3da870
+      ImageId: ami-005f9685cb30f234b
       InstanceType: t2.micro
-      KeyName: vincenzo
+      KeyName: firstkey
       SecurityGroupIds:
         - !Ref WebServerSecurityGroup
       Tags:
