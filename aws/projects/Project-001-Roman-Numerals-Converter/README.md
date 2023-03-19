@@ -101,10 +101,6 @@ Ten         Warning with "Not Valid! Please enter a number between 1 and 3999, i
         |----result.html # Given to the students (HTML template)
 ```
 
-## Expected Outcome
-
-![Project 001 Snapshot](project-001-snapshot.png)
-
 ### At the end of the project, following topics are to be covered;
 
 - Algorithm design
