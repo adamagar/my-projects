@@ -144,22 +144,20 @@ Ten         Warning with "Not Valid! Please enter a number between 1 and 3999, i
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ## Steps to Solution
-  
-- Step 1: Download or clone project definition from `clarusway-aws-workshop` repo on Github 
 
-- Step 2: Create project folder for local public repo on your pc
+- Step 1: Create project folder for local public repo on your pc
 
-- Step 3: Write the Roman Numerals Converter Application in Python
+- Step 2: Write the Roman Numerals Converter Application in Python
 
-- Step 4: Transform your application into web application using Python Flask framework
+- Step 3: Transform your application into web application using Python Flask framework
 
-- Step 5: Prepare a cloudformation template to deploy your app on EC2 Instance
+- Step 4: Prepare a cloudformation template to deploy your app on EC2 Instance
 
-- Step 6: Push your application into your own public repo on Github
+- Step 5: Push your application into your own public repo on Github
 
-- Step 7: Deploy your application on AWS Cloud using Cloudformation template to showcase your app within your team.
+- Step 6: Deploy your application on AWS Cloud using Cloudformation template to showcase your app within your team.
 
-- Step 8: Deploy your application on AWS Cloud using AWS Cli to showcase your app within your team.
+- Step 7: Deploy your application on AWS Cloud using AWS Cli to showcase your app within your team.
 
 ## Notes
 
